@@ -1,2 +1,3 @@
-# Python_Project
-Python code and output screenshot
+## Python Output
+
+![Python Output](output.png)
